@@ -1,2 +1,8 @@
 body{
         background-color: greenyellow;}
+.caja {
+    margin: 20px;
+    border: 30px solid blue;
+    padding: 100px;
+    background-color: rgb(121,112,112);
+}
